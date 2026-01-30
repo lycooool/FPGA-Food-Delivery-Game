@@ -143,3 +143,5 @@ set_property IOSTANDARD LVCMOS33 [get_ports ps2_clk]
 set_property IOSTANDARD LVCMOS33 [get_ports ps2_data]
 
 set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets ps2_clk]
+
+
